@@ -83,7 +83,7 @@ class UI {
 
   static clearFields() {
     document.querySelector("#title").value = "";
-    document.querySelector("#isbn").value = "";
+//     document.querySelector("#isbn").value = "";
     document.querySelector("#pages").value = "";
     document.querySelector("#author").value = "";
   }
